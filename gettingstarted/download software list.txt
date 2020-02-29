@@ -1,0 +1,25 @@
+1. Java 1.8 and build say 200+
+done
+
+2. Eclipse Neon 3 or Photon
+done
+
+3. Install the m2e eclipse plugin for maven {use Marketplace of Eclipse}
+done
+
+4. Chrome Driver - http://chromedriver.chromium.org/downloads {all
+drivers should correspond to your browser version
+Google Chrome:Version 79.0.3945.130 (Official Build) (64-bit)
+Downloaded:
+[DIR]	chromedriver_win32.zip	
+
+5. Firefox driver - https://github.com/mozilla/geckodriver/releases
+done
+
+6. Edge -
+https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/
+Edge Version:Microsoft Edge 44.17763.831.0
+done
+
+7. IE - https://www.microsoft.com/en-in/download/details.aspx?id=44069
+Could not download the driver for IE.
